@@ -1,0 +1,4 @@
+{meat=15000.0, tomato=15000.0}
+{meat=0.001, tomato=0.001}
+{meat=g, tomato=g}
+{meat=15.0, tomato=15.0}

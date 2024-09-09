@@ -1,0 +1,4 @@
+{bread=20.0, meat=8000.0}
+{bread=0.5, meat=0.003125}
+{bread=pcs, meat=g}
+{bread=10.0, meat=25.0}
